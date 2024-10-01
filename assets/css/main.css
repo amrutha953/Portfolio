@@ -690,9 +690,8 @@ section,
   float: right;
   font-style: normal;
 }
-.progress-bar-wrap{
-  background:red;
-}
+
+
 
 .about .progress-bar-wrap {
   background: color-mix(in srgb, var(--default-color), transparent 90%);
