@@ -246,6 +246,12 @@ h6 {
 }
 
 /* Mobile Navigation */
+.about .progress-bar-wrap {
+    background: 
+color-mix(in srgb, var(--default-color), transparent 90%);
+    height: 10px;
+    background: blue;
+}
 @media (max-width: 1199px) {
   .mobile-nav-toggle {
     color: var(--nav-color);
